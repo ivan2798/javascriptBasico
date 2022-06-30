@@ -26,3 +26,11 @@ vehiculos+=vehiculosElectricos;
 
 
 console.log("La policia tiene ",vehiculos, "en total");
+
+let listaCompra = ["pan","fruta","pescado","leche"];
+let cantidades = [3,5,8,13];
+let registroEntradas = [true,false, true, false]
+
+console.log(registroEntradas);
+
+/* Arreglo estructura de datos conformado por datos primitivos*/
