@@ -5,15 +5,9 @@
 
 //dato primitivo: 
 
-let numero = 3;
-numero = 4;
 
-let completo = true;
 
-const nombre = "Ivan";
-
-let apellido = "Herrera";
-
-apellido = "Barrios";
-
-console.log(nombre,completo);
+let num1 = 2;
+let num2="2";
+console.log(num1==num2); // == no importan tipos
+console.log(num1===num2);  // debe ser mismo tipo
