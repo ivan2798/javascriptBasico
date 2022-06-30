@@ -31,6 +31,20 @@ let listaCompra = ["pan","fruta","pescado","leche"];
 let cantidades = [3,5,8,13];
 let registroEntradas = [true,false, true, false]
 
-console.log(registroEntradas);
+let listaCompra2 = ["pan",["manzana","pera"],"pescado",["leche"]]
+
+console.log(listaCompra2);
 
 /* Arreglo estructura de datos conformado por datos primitivos*/
+
+
+/*Ahora objetos  */
+
+let listaCompra3 = {
+    panaderia:["bolleria","pan"],
+    fruta:["manzana","pera"],
+    pescado:"Lubina",
+    lactosa: ["leche","yogur"]
+}
+
+console.log(listaCompra3)
