@@ -3,5 +3,9 @@
 
 //keyword: var, let, const
 
-const nonmbre = "Ivan";
+const nombre = "Ivan";
+
+let apellido = "Herrera";
+
+apellido = "Barrios";
 console.log(nombre);
